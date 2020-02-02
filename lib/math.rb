@@ -1,6 +1,5 @@
 def addition(num1, num2)
-  #sum = num2 + num1
-  sum = Math.sum(num1 + num2)
+  sum = num2 + num1
 end
 
 def subtraction(num1, num2)
